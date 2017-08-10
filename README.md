@@ -1,1 +1,1 @@
-# self-house-guild
+# self-house-guide
